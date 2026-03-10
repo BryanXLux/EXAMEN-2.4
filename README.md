@@ -7,6 +7,15 @@ Este proyecto tiene como objetivo desplegar un sistema **LMS Moodle** utilizando
 El uso de contenedores facilita la instalación, configuración y portabilidad del sistema en diferentes equipos.
 
 ---
+
+## Autores
+
+* Bryan Josué Mendoza Rodríguez 
+* Alisson Monsterrat Jimenez Pat 
+* Manuel Jesús Tah Canché
+
+---
+
 ## Tecnologías utilizadas
 
 * Docker
@@ -117,8 +126,3 @@ moodle-docker/
 
 ---
 
-## Autores
-
-* Bryan Josué Mendoza Rodríguez 
-* Alisson Monsterrat Jimenez Pat 
-* Manuel Jesús Tah Canché
