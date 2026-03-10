@@ -107,17 +107,7 @@ docker compose up -d
 Esto eliminará los contenedores y volúmenes para permitir una instalación limpia.
 
 ---
-
-## Estructura del proyecto
-
-```
-moodle-docker/
-│
-├── docker-compose.yml
-├── Dockerfile
-├── .gitignore
-├── README.md
-```
+# Continuar con la [Guía de instalación](instalación/guia.md) del Moodle
 
 ---
 
