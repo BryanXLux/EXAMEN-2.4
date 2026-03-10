@@ -8,7 +8,7 @@ El uso de contenedores facilita la instalación, configuración y portabilidad d
 
 ---
 
-## Autores
+## INTEGRANTES DEL EQUIPO
 
 * Bryan Josué Mendoza Rodríguez 
 * Alisson Monsterrat Jimenez Pat 
@@ -79,8 +79,10 @@ Una vez iniciado el sistema, abre tu navegador y entra a:
 
 ```
 http://localhost
+```
 
 o en su defecto:
+```
 http://localhost:8080
 ```
 
